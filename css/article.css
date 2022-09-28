@@ -1,0 +1,20 @@
+.article {
+    max-width: 500px;
+    padding: 20px;
+    box-shadow: 2px 2px 8px #ccc;
+    margin: 20px auto;
+    border: solid;
+}
+
+.article__header {
+    color: teal;
+}
+
+.article__paragraph {
+    color: blue;
+    text-decoration: underline;
+}
+
+.article__paragraph--darker {
+    color: darkgreen;
+}

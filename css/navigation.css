@@ -1,0 +1,21 @@
+.navigation__list {
+    list-style-type: none;
+}
+
+.navigation__item {
+    display: inline-block;
+    padding: 10px 60px;
+}
+
+.navigation__item:hover {
+    background-color: #616060;
+    border-style: none;
+    border-radius: 10px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: 600;
+}

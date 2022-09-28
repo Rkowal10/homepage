@@ -1,0 +1,11 @@
+.image {
+    border-radius: 20%;
+    border-width: 5px; 
+    border-style: solid;
+    max-width: 350px;
+    max-height: 600px;
+}
+
+.photoRemove {
+    display: none;
+  }

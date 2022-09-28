@@ -1,0 +1,61 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.barca {
+    color: #596586;
+    text-shadow: 2px 1px #424142;
+    box-shadow: #596586;
+    padding: 5px 10px;
+    background-color: whitesmoke;
+}
+.barca:hover {
+    background: #424142;
+}
+.tr {
+    color: #1425be;
+}
+.body {
+    background: bisque;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.dark {
+    color: #eee;
+    background: lightblue;
+}
+
+.table {
+    border: solid #091052;
+    border-collapse: collapse;
+    width: 100%;
+    vertical-align: middle;
+    border-radius: 10px;
+}
+
+.tableCell {
+    padding: 20px;
+    border: solid;
+    text-align: center;
+}
+
+.tableHeader {
+    background-color: #8b0633;
+}
+
+.caption {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.list {
+    list-style-type: upper-roman;
+}
+
+.ulist {
+    list-style-type: circle;
+}
