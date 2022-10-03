@@ -1,5 +1,5 @@
 # Radek Kowalczyk - my first project
-![Radek](images/Marta&Radek_102.png)
+![Radek](images/Marta&Radek_smallest.png)
 
 ## *DEMO*
 
