@@ -1,5 +1,6 @@
 .navigation {
     display: flex;
+    flex-basis: 800px;
     justify-content: center;
     flex-wrap: nowrap;
 }
@@ -11,7 +12,6 @@
 }
 
 .navigation__item {
-    flex-direction: column;
     padding: 10px 60px;
 }
 
