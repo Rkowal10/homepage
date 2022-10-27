@@ -2,4 +2,7 @@
     color: #5b018f;
     font-style: italic;
     padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
