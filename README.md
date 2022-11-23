@@ -3,7 +3,7 @@
 
 ## DEMO
 
-https://rkowal10.github.io/homepage/
+**[My homepage](https://rkowal10.github.io/homepage/)**
 
 ## Description
 
@@ -13,4 +13,5 @@ It's my first project which presents me and my hobby. I made it as a part of the
 ## Used technologies
 - HTML
 - JavaScript
-- CSS
+- CSS Flex
+- BEM
